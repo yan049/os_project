@@ -35,6 +35,7 @@ cd user/
 cargo clean
 ```
 ## code structure
+```
 .
 ├── boot.sh
 ├── build.rs (build link_app.asm)
@@ -89,3 +90,4 @@ cargo clean
         ├── lib.rs
         ├── linker.ld
         └── syscall.rs
+```
