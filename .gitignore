@@ -1,0 +1,6 @@
+# IDE
+.idea/
+
+# Rust build outputs
+/target/
+/user/target/
