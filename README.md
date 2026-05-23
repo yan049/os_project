@@ -1,5 +1,5 @@
-## Prerequistes
 ![image](https://github.com/yan049/os_project/blob/master/diagram.jpg)
+## Prerequistes
 ### Rust
 we use nightly Rust, and some tools
 ``` shell
